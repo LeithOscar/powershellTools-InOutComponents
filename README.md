@@ -3,6 +3,8 @@ List all of properties from components (@input &amp; @Output) with extension "*c
 
 # How it works?
 
-Only have to indicate the path of componenets do you want to search.
+Just indicate the path of the components you want to search for.
 
-exceute .\InOutComponents.ps1 -path ".....\components" in your powershell
+> open powerShell
+> fin your script
+> write the next instruction  -> .\InOutComponents.ps1 -path ".....\components" in your powershell
